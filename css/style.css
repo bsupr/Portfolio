@@ -14,8 +14,8 @@ ul{
     padding:0;
     overflow: auto;
     margin: 10px;
-    width: 15.4%;
-    height: 5.8%; /* Full height */
+    width: 16%;
+    height: 7%; /* Full height */
    
 }
 li a
@@ -25,7 +25,7 @@ li a
     text-decoration: none;
     font-size: 15px;
     text-align: center;
-  width:36px;
+  width:33px;
   padding: 9px 16px;
   display:block;
 
